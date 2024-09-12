@@ -3,7 +3,7 @@ import plotly
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
+# import numpy as np
 
 
 # 한글 안깨지게 하는 코드 
